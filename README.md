@@ -1,4 +1,4 @@
-## SAUDAÇÕES 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00AEEF&width=600&lines=Saudações+👋!;Prazer,+Raphael+Moreto.;Developer+Full-Stack)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raphael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
