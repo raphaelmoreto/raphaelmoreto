@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00AEEF&width=600&lines=Saudações+👋!;Prazer,+Raphael+Moreto.;Developer+Full-Stack)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00AEEF&width=600&lines=Saudações+👋!;Prazer,+Raphael+Moreto.;Developer+BACK-END+(que,+às+vezes+se+aventura+pelo+FRONT+KK))](https://git.io/typing-svg)
 
 ## Tecnologias conhecidas:
 <div style="display: inline_block"><br>
