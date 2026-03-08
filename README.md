@@ -1,15 +1,20 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00AEEF&width=600&lines=Saudações+👋!;Prazer,+Raphael+Moreto.;Developer+BACK-END+(que,+às+vezes+se+aventura+pelo+FRONT+KK))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=800&color=00AEEF&width=750&lines=Saudações+👋!;Prazer,+Raphael+Moreto.;Desenvolvedor+Back-End;que,+às+vezes,+se+aventura+pelo+FRONT)](https://git.io/typing-svg)
 
-## Tecnologias conhecidas:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Raphael-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Raphael-SqlServer" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-  <img align="center" alt="Raphael-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Raphael-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raphael-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raphael-Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img align="center" alt="Raphael-MySql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-</div>
+---
+
+💻 Desenvolvedor focado em **Back-End**
+
+---
+
+# 🚀 Tecnologias
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0078D4?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
+
+---
 
 ## Contatos
 <div>
